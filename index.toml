@@ -5,6 +5,11 @@ file = "README.md"
 hash = "0a0e65d631eb1fa0d25350d2586e5ee8197c251cf5a47285c979f107965fce40"
 
 [[files]]
+file = "mods/aerowear.pw.toml"
+hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
+metafile = true
+
+[[files]]
 file = "mods/colorful-catalysts.pw.toml"
 hash = "d95a4e910cd5c2776c3a466b0b5bbd3c50c6fa76c0a207fb6f422dd239403f52"
 metafile = true
