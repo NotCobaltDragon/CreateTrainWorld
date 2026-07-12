@@ -1,0 +1,13 @@
+name = "Create Train World"
+author = "CobaltDragon_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6a2afb3c9be287ddd3d708304cd86d8f8a0be7e940c1608da45ce2266a1d23f9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

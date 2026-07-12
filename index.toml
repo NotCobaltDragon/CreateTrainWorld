@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "0a0e65d631eb1fa0d25350d2586e5ee8197c251cf5a47285c979f107965fce40"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
