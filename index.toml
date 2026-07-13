@@ -10,6 +10,11 @@ hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/colorful-catalysts.pw.toml"
 hash = "d95a4e910cd5c2776c3a466b0b5bbd3c50c6fa76c0a207fb6f422dd239403f52"
 metafile = true
