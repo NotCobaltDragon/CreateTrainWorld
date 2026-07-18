@@ -1,0 +1,13 @@
+name = "16x16 Yyz's Backpack"
+filename = "PixelConsistentYyzBackpack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gsk5s69R/versions/nmdHRqmz/PixelConsistentYyzBackpack.zip"
+hash-format = "sha512"
+hash = "1dccf69a5153078375d7450cb2fa51e844b225728d6862f2676f5a26fb835718aad6339118f03757498c8bdfe61b13678b1493a336602b54f441115d5d885156"
+
+[update]
+[update.modrinth]
+mod-id = "gsk5s69R"
+version = "nmdHRqmz"
