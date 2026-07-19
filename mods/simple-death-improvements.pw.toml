@@ -1,0 +1,13 @@
+name = "Simple Death Improvements"
+filename = "simple_death_improvements-1.5.0+1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JFsuD70/versions/CwbjwCyS/simple_death_improvements-1.5.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "232749fe2dd1dceb0b188431fec8cee9b2bb71881e529a751d8855fbc847d393d5e1231b15921efb24a45e13f099109ef8531855722fdd967863809fcf69b533"
+
+[update]
+[update.modrinth]
+mod-id = "2JFsuD70"
+version = "CwbjwCyS"
