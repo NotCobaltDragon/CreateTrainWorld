@@ -1,0 +1,13 @@
+name = "Dye the Skies (Dye Depot x Create Aeronautics)"
+filename = "DyeTheSkies.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QmL3X2v2/versions/X3ihDbZN/DyeTheSkies.zip"
+hash-format = "sha512"
+hash = "a772b35a083238ca54d20ae2c0aeb8ce0831fb336abee2b72dabeafb8c01c9f603a91dd74a7488b119792a4d83f39319fed11a542adbe889507e6342e84d3c82"
+
+[update]
+[update.modrinth]
+mod-id = "QmL3X2v2"
+version = "X3ihDbZN"
