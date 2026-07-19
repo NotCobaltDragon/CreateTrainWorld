@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "03c4d36a165d51b82bd0fb6e928827b29aa438736fafb4fa58a4cbe0c4a05998"
+
+[[files]]
 file = "README.md"
-hash = "0a0e65d631eb1fa0d25350d2586e5ee8197c251cf5a47285c979f107965fce40"
+hash = "8b199bd05b88661770713cfa254fd0e57b9329520523be9e210d5f2b2acd846b"
 
 [[files]]
 file = "mods/aerowear.pw.toml"
@@ -312,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+metafile = true
+
+[[files]]
+file = "mods/uniful.pw.toml"
+hash = "352ae441c58fa19ac2adcb52647669453088c43636912d737de4b37716ccb670"
 metafile = true
 
 [[files]]
