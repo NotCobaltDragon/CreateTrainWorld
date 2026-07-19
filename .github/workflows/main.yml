@@ -30,6 +30,9 @@ jobs:
           VERSION=$(grep -oP '^version\s*=\s*"\K[^"]+' pack.toml)
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
+      - name: Refresh index
+        run: packwiz refresh
+
       - name: Export modpack
         run: packwiz modrinth export -o "createtrainworld-${{ steps.version.outputs.version }}.mrpack"
 
