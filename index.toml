@@ -210,6 +210,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/frequency-create.pw.toml"
+hash = "2953dcd55c7ed6c8c7c07b3606c16f6da04bc618e162ae98369cfe7cbc43df42"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
