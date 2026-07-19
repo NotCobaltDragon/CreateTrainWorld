@@ -1,0 +1,42 @@
+name: Export & Release Modpack
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Read version from pack.toml
+        id: version
+        run: |
+          VERSION=$(grep -oP '^version\s*=\s*"\K[^"]+' pack.toml)
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Export modpack
+        run: packwiz modrinth export -o "createtrainworld-${{ steps.version.outputs.version }}.mrpack"
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_type == 'tag' && github.ref_name || format('v{0}', steps.version.outputs.version) }}
+          name: createtrainworld ${{ steps.version.outputs.version }}
+          files: createtrainworld-${{ steps.version.outputs.version }}.mrpack
+          fail_on_unmatched_files: true
