@@ -1,10 +1,13 @@
-name: Export Modpack
+name: Export & Release Modpack
 
 on:
   push:
     tags:
       - 'v*'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   export:
@@ -30,8 +33,10 @@ jobs:
       - name: Export modpack
         run: packwiz modrinth export -o "createtrainworld-${{ steps.version.outputs.version }}.mrpack"
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Create release
+        uses: softprops/action-gh-release@v2
         with:
-          name: createtrainworld-${{ steps.version.outputs.version }}
-          path: createtrainworld-*.mrpack
+          tag_name: ${{ github.ref_type == 'tag' && github.ref_name || format('v{0}', steps.version.outputs.version) }}
+          name: createtrainworld ${{ steps.version.outputs.version }}
+          files: createtrainworld-${{ steps.version.outputs.version }}.mrpack
+          fail_on_unmatched_files: true
