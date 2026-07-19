@@ -279,6 +279,11 @@ hash = "f0c66fc8c3d9dbea2704b007e79125377d50484ff3a40c280b48707659209045"
 metafile = true
 
 [[files]]
+file = "mods/mine-treasure.pw.toml"
+hash = "30117ae98e617a7c72ba0c49e7c270d38fb7a12137fc8c09408948278c96b454"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
 metafile = true
