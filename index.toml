@@ -60,6 +60,11 @@ hash = "692aa6f5a5254b7eee23afec6275f9ee6dd9b46ac2c25cf1929a55e2310f1d36"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
+hash = "2775edce751c45495239dca97bd753311489b9b5187005277c1d5d959954c6e3"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
 hash = "2ee1658abd1dc7134dac94b329fc913e12d4e2d1cb235ba2c2e34d81efd4f900"
 metafile = true
