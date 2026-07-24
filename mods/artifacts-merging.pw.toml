@@ -1,0 +1,13 @@
+name = "Artifacts Merging"
+filename = "artifactsmerging-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gWBjqEMX/versions/zzFqpmjz/artifactsmerging-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "b20810837d9d3e120448d1b6716bddc9e8eaf6f8c41103cb5216ec0e4b3734bd3e66509555aa20bbbc3146d32a408348507975bfc4ee90e2d4a1fedeb1f43537"
+
+[update]
+[update.modrinth]
+mod-id = "gWBjqEMX"
+version = "zzFqpmjz"
