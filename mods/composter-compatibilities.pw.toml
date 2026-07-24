@@ -1,0 +1,13 @@
+name = "Composter Compatibilities"
+filename = "composter_compat-neoforge-1.21.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mNABp0x0/versions/ycpD0fHY/composter_compat-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "5d9f5b75ea9639738fd5357c61226690de9265eea67d4e115f594ff5608dfbc068a8ad3e3dc833df61ddf5dfa9bbd6665c60925a7fc7bfe209c21737e245277c"
+
+[update]
+[update.modrinth]
+mod-id = "mNABp0x0"
+version = "ycpD0fHY"
