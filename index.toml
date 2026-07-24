@@ -99,6 +99,11 @@ hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-dyeable-ropes.pw.toml"
+hash = "7330898e5a94ef8563b36dbf531a460690dea3c19c728fd99ee91e0eff476232"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
 hash = "2775edce751c45495239dca97bd753311489b9b5187005277c1d5d959954c6e3"
 metafile = true
