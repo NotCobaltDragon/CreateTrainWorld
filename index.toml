@@ -149,11 +149,6 @@ hash = "9a4698c7a6d450e860bea82463dbea10918e4990ea16a54a11921c6c9e9ad1d6"
 metafile = true
 
 [[files]]
-file = "mods/create-bluemap.pw.toml"
-hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
-metafile = true
-
-[[files]]
 file = "mods/create-colored-packages.pw.toml"
 hash = "758487f7d0a7e4a195dea2b7df621ef5a3dcc91eb68ce9c4ed912b6923a79aaa"
 metafile = true
