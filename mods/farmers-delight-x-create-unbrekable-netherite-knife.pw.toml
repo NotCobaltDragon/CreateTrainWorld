@@ -1,6 +1,6 @@
 name = "Farmer's Delight x Create: Unbrekable Netherite Knife"
 filename = "Create Unbreakable Netherite Knife 3 Neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bTFzYzoI/versions/krhGdGQ5/Create%20Unbreakable%20Netherite%20Knife%203%20Neoforge-1.21.1.jar"
