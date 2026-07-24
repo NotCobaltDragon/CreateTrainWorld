@@ -59,16 +59,6 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
-metafile = true
-
-[[files]]
-file = "mods/bluemapcreateentityaddon.pw.toml"
-hash = "19b306dbdd5d0da0907c8b4d0d2d74ad93bb7539cc19210dd082979c95975c24"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -101,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/creat-aeronautics-structures.pw.toml"
 hash = "692aa6f5a5254b7eee23afec6275f9ee6dd9b46ac2c25cf1929a55e2310f1d36"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
 metafile = true
 
 [[files]]
@@ -156,6 +151,21 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "59ca697b09cd2339e6bbd524828fed73fa842083846e950a555aa081fedb6c63"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas-lava-fix.pw.toml"
+hash = "cdee1d0e7cdd515fd5f9171ab4f553a127850d5a584685d125495712db0e94e9"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
 metafile = true
 
 [[files]]
@@ -349,6 +359,11 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
+metafile = true
+
+[[files]]
 file = "mods/extra-gauges.pw.toml"
 hash = "635b8380894bc7c050deeb426f3e5947b27bda821a616b0ef6a757ae729e96b8"
 metafile = true
@@ -456,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
