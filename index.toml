@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
-hash = "6993f3c118e4acaa3ba739cec3d1e9f251e43eeaba597b76c4902808748e9ed7"
+hash = "dfc0f3c78bbbf2123b4459ad3f1706c98799fed6ab445bdc915f4f5233a000d1"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
