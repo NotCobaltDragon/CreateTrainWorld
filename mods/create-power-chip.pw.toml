@@ -1,0 +1,13 @@
+name = "Create: Power chip"
+filename = "powerchip-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/FCAU8nDT/powerchip-2.0.2.jar"
+hash-format = "sha512"
+hash = "cdc2ec12b9dd99630ef36c5e41539c59e06d6c7753f9513a4fe3bd0d11f24775b536a1ceeea6f854f7a33d7deab32ec27f37bc996502669c4599d2392a1830a7"
+
+[update]
+[update.modrinth]
+mod-id = "xjCy9IA8"
+version = "FCAU8nDT"
