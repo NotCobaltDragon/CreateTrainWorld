@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-x-create-unbrekable-netherite-knife.pw.toml"
-hash = "6742c262247866aa7d1d6eb28a14b7dd834bc423af224d64f35e00696716fc7f"
+hash = "b21ea9b498b03fa702874ee93b7fc2d21eb4b9ecbab70e62668b07275aaa7020"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
 metafile = true
 
 [[files]]

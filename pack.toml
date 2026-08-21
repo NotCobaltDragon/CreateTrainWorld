@@ -1,16 +1,16 @@
 name = "Create Train World"
 author = "CobaltDragon_"
 version = "1.1.1"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz:1.2.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ae2fd224b42965550b1d8dbb07644853cb177a24153c5656dc9973b3be3dd0ed"
+hash = "9955402f085a0ff272bb9428683e5dcd8fc342829b7209fbae68df98fd5e0697"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.235"
+neoforge = "21.1.247"
 
 [options]
 acceptable-game-versions = ["list"]
