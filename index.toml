@@ -10,7 +10,7 @@ hash = "dcc0c66631532118d9b10b6e823e6258918311c7f262536b87cd42f06b1fdfca"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
+hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
 
 [[files]]
@@ -521,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "0e1046e1bb16b42706ba58700f294787dc8fe643518bc5fb26eeaea8e96fd320"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
