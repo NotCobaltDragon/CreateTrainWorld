@@ -119,6 +119,11 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/colorful-depot.pw.toml"
 hash = "e12dc4b839be7093a3ac9b228207866e2258c39190b13fbfc57321a3565b1f82"
 metafile = true
@@ -369,6 +374,11 @@ hash = "fdfd33b0052a35480710335fcacb397fc0c1f6bb1dad8a802f78f14c0e0bfc5f"
 metafile = true
 
 [[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -396,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/druids.pw.toml"
 hash = "fcbd8179d276d6fddb3e704e324ad7b24c619007af2e485d6a6f76394f9fd211"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "e408acb673d46cd11cfc66db1daa12c4e6154e5529f634d1a596982df7f2b617"
 metafile = true
 
 [[files]]
@@ -764,6 +779,11 @@ hash = "854e45f44175efa93c049a36016bfe19896b52b4acd9b9c6f30f491daeb08390"
 metafile = true
 
 [[files]]
+file = "mods/skills.pw.toml"
+hash = "1c42d0d46b5325d7c372926d2265f19c0d46a7222b0181596fa8b2ac74e7f126"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
@@ -961,9 +981,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/dye-the-skies.pw.toml"
 hash = "9f62c27a62625ed704beb260a89c77a336047175721ff08cffb5b12a51a148ab"
-metafile = true
-
-[[files]]
-file = "twilight.pw.toml"
-hash = "cc7bfd882d91b07243a927ef73dede2532eaa2efaa50406cd21a576590dbacf7"
 metafile = true
