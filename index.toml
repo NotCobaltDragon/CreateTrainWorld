@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts-merging.pw.toml"
-hash = "9c89e3311f23c139e01a7ae1ca5a125cc8f2adb10f3bcf91f0f22b7d9e2ba167"
+hash = "109d2d6fe897f2b3a924794ae1810d4342b658c8559c9ce9632be6082b85856e"
 metafile = true
 
 [[files]]
