@@ -1,0 +1,13 @@
+name = "Jewelry (RPG Series)"
+filename = "jewelry-neoforge-2.5.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/pAH3fT69/jewelry-neoforge-2.5.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f03c161e95a48c19a31aca902ee04272d8a80909ba185d4ec247b0182cdd203acd5618179ebda21f6a46d1dd58f21a7c632f9570792234bc6405e5c64847fd24"
+
+[update]
+[update.modrinth]
+mod-id = "sNJAIjUm"
+version = "pAH3fT69"
