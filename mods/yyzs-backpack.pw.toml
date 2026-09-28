@@ -1,13 +1,13 @@
 name = "yyz's backpack"
-filename = "yyzsbackpack-0.0.9-reborn+1.21.1.jar"
+filename = "yyzsbackpack-neoforge-21.1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/te7Afz7R/yyzsbackpack-0.0.9-reborn%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/jiao2sMM/yyzsbackpack-neoforge-21.1.13.jar"
 hash-format = "sha512"
-hash = "ffa724d1743263ca79878b0ac12bc9d603689fce8924588b91ab0b6ba8035894a1a76156413048d1abd1d6faa820e248ca7f827e4631adbe2b7e7a7d63e04abc"
+hash = "2baff41e443c2d1ee40f82423befb19786a65d06257d2a402a21a444d97260162d883f01d3c9d545095cf0fef022a1e02502712de70553004ab7acb3971c8581"
 
 [update]
 [update.modrinth]
 mod-id = "zO7tsTJN"
-version = "te7Afz7R"
+version = "jiao2sMM"
