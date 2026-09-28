@@ -1,13 +1,13 @@
 name = "Colorful Depot"
-filename = "colorful_depot-1.3-neoforge.jar"
+filename = "colorful_depot-1.4.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s1I9GeSl/versions/rwUkYHBw/colorful_depot-1.3-neoforge.jar"
+url = "https://cdn.modrinth.com/data/s1I9GeSl/versions/vqkf94nw/colorful_depot-1.4.1-neoforge.jar"
 hash-format = "sha512"
-hash = "699f98035c50d188615ab5643217e186b36f8214afe61f58a34b351413bcec9138e25f6326fe867c41fc0789732866de28898be2de5a844d3843fd05a66f3214"
+hash = "02a90a485d0e86937ffafc01dd39986cc38d1251473cb07a9fb4aaa739ac16e8dfa4a540a478579098177df7ceb8fb90595bdcc8362c7eb419e671fee77efb7f"
 
 [update]
 [update.modrinth]
 mod-id = "s1I9GeSl"
-version = "rwUkYHBw"
+version = "vqkf94nw"
