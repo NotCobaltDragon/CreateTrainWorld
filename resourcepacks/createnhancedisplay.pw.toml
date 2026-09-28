@@ -1,0 +1,13 @@
+name = "Create Enhanced Display"
+filename = "CreatEnhanceDisplay.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J5EYn4B4/versions/SyJRU75W/CreatEnhanceDisplay.zip"
+hash-format = "sha512"
+hash = "534d369aa7786f94f82590da7dd69d531e46c73cb486e75c6797eae648da6a40c5b04343219f7d3dea18cc22c9b6a3442775fa4abef03a26c6dd38abc18beda5"
+
+[update]
+[update.modrinth]
+mod-id = "J5EYn4B4"
+version = "SyJRU75W"
