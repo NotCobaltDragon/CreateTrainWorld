@@ -84,11 +84,6 @@ hash = "d67e0afb39466da26d5687f320b9cddacc962b5658a6835dfef826601260e214"
 metafile = true
 
 [[files]]
-file = "mods/arsenal-rpg-series.pw.toml"
-hash = "4dd0f3a3980d883254e550b4d98aa9f13dae45a8113e67565ff62786e0172c12"
-metafile = true
-
-[[files]]
 file = "mods/artifacts-merging.pw.toml"
 hash = "109d2d6fe897f2b3a924794ae1810d4342b658c8559c9ce9632be6082b85856e"
 metafile = true
@@ -134,6 +129,11 @@ hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -164,6 +164,11 @@ hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
 
 [[files]]
+file = "mods/chunky-offline.pw.toml"
+hash = "986f28c111e5ecf1a77054203ddcc6642d269561827cab3968c811672a7ce53c"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -179,6 +184,11 @@ hash = "e12dc4b839be7093a3ac9b228207866e2258c39190b13fbfc57321a3565b1f82"
 metafile = true
 
 [[files]]
+file = "mods/compass-to-map-xaeros.pw.toml"
+hash = "5f2392473cc76d2d92fade93480b4141030627572143eba506fa62c2fe27a1d3"
+metafile = true
+
+[[files]]
 file = "mods/composter-compatibilities.pw.toml"
 hash = "268fc38a2c82d4400cc1947d37820786f601dc6690f8072f25febeaa4e647b42"
 metafile = true
@@ -186,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+metafile = true
+
+[[files]]
+file = "mods/construction-wands-revived.pw.toml"
+hash = "999c9dfaf3196f35ef1c6e650d344312813594a4c1fed98e4f7d247441933102"
 metafile = true
 
 [[files]]
@@ -249,8 +264,13 @@ hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
+metafile = true
+
+[[files]]
+file = "mods/create-backtank-trims.pw.toml"
+hash = "981d418a9ff92ffb92b2d2d573ca83e8aa90630c4513da9c42753363511746ae"
 metafile = true
 
 [[files]]
@@ -419,6 +439,11 @@ hash = "663f6f9ee22b3f7ce9f84542842319249fb28ca5a5e26039575834f1ea602d68"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true
@@ -466,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "e3211d7d54a7203a183ed3b453be5dd52d27f389dbef26dd7e769f20e1dea81f"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
@@ -679,6 +709,11 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
 file = "mods/jade-sable-compat.pw.toml"
 hash = "673bc79f4d42c7de3343a8e2933a3fbd355ba34e8a7ca06ffdae659bd57a8231"
 metafile = true
@@ -779,6 +814,11 @@ hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
 metafile = true
 
 [[files]]
+file = "mods/naturally-trimmed.pw.toml"
+hash = "54e1ee024ed76dd241801f96d298b9502918224df50d562bc2653d950f314656"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
@@ -816,11 +856,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
-metafile = true
-
-[[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "a9c1ecdef94c1e535f7c5ea05e9b720778b8fd9bf0211d7d52a69bb4b6044ad1"
 metafile = true
 
 [[files]]
@@ -889,11 +924,6 @@ hash = "bee98f0db61db79ee173e45c940a58d1fc09f754797bdb2aee4e10e4884ebd04"
 metafile = true
 
 [[files]]
-file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "336a676245f400070c38e06443ba65f664041bfaff5a0dca677dcd10a37d6aad"
-metafile = true
-
-[[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "0ca4e4a6dc001eb5fb81d1817cb8b209e86cb8541a77f6e1de23d92a0e20f45c"
 metafile = true
@@ -911,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "05c5359a4419b39c0e72c2693f0cda3bc5959520fe42b348d3bd701384491aef"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "ea53e1f266236ded756baa6ae49292583fa5f21c5c3134dfef821b11a7f169fb"
 metafile = true
 
 [[files]]
@@ -979,26 +1014,6 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bcdd9de050d7efbc77ffc3ce177905bf099301e3fd48993606402fc70537bc18"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "5d4e493a74a7deb175d278274e6990f92d1a3910fae5d4866a1520bbca9acce2"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "22729316e54e8a314171281417d7429e7d554be0ebb0c87a5b55c949c5972757"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "aea57e9f582f669231634b1d311c68a2d7d26f26d53865e00839e211d3059074"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "7afdd5695d9d44f03b48ee5d5ac529d5c7de69a831b9425268f0e17b5170b341"
 metafile = true
@@ -1046,6 +1061,16 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
 metafile = true
 
 [[files]]
@@ -1114,13 +1139,28 @@ hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+file = "mods/wizards.pw.toml"
+hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
 metafile = true
 
 [[files]]
-file = "mods/wizards.pw.toml"
-hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
+file = "mods/xaero-head-tracker.pw.toml"
+hash = "823062205aac8ab02b8d31f8a1d3d4662525816838accb9a735380ac0aa74cae"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
 metafile = true
 
 [[files]]
@@ -1169,6 +1209,11 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "mods/yyzs-backpack-compat.pw.toml"
+hash = "3b6159f9cf8439467e5c800bc88764152e3f04bb01339fac2c60cfc8d10950c6"
+metafile = true
+
+[[files]]
 file = "mods/yyzs-backpack.pw.toml"
 hash = "cd197166c34d4ced446a468928dae54c81e9b98be9c53971c208faa1a6f4ee49"
 metafile = true
@@ -1179,13 +1224,8 @@ hash = "131403ad4672b3ae1254bad91bb5844a972374a618e8229826cd3c81dabd12b1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
+file = "resourcepacks/createnhancedisplay.pw.toml"
+hash = "d98375778f1e048f8af6c79a6cf4dd50314e5592739a154ba8bc82282dd79857"
 metafile = true
 
 [[files]]
