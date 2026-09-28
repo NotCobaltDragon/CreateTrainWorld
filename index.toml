@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/main.yml"
-hash = "127743e86832235e59be8b7c5cbe064f19b6a060363a6c72ad449d6a82a5e96b"
+hash = "95e8e31639c6e6587fc13529dd7cf641efcad0f322b6a3a4c6224efde0a9d748"
 
 [[files]]
 file = "README.md"
-hash = "8b199bd05b88661770713cfa254fd0e57b9329520523be9e210d5f2b2acd846b"
+hash = "dcc0c66631532118d9b10b6e823e6258918311c7f262536b87cd42f06b1fdfca"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "793e70a07961b1670ba13dcdfe2c1cfb1379df52485adc2d3ba5db128e9536a6"
+hash = "c81bee190ce936bc46b98b20f3dff4a7b9689cb7ac168a1674f5378c882f304a"
 metafile = true
 
 [[files]]
