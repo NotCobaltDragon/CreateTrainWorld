@@ -1,0 +1,13 @@
+name = "Create: Power Components"
+filename = "power-components-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuJEE6yz/versions/jJIroTjd/power-components-1.2.3.jar"
+hash-format = "sha512"
+hash = "6bee41153d928b34189902b94923d27b8a96d9e803ec67039b6b060bef792c9237da076d89eada4a41a0bb3b7ce409dadfc3a8c8aa98eb60dfe7130e3295f887"
+
+[update]
+[update.modrinth]
+mod-id = "EuJEE6yz"
+version = "jJIroTjd"
