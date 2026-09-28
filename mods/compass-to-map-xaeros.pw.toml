@@ -1,0 +1,13 @@
+name = "Compass to Map: Xaero's Minimap"
+filename = "compasstomapxaeros-0.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7BPfphg/versions/yL3yBq1T/compasstomapxaeros-0.1.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "97e96b39d4c55b7023e952b14007da632032c83fb6e2d42b11b337ea107e66fcf6ce959ecfd5d80aae06fd38574d97810ed776f944dcf7a07f98cdb817645a9e"
+
+[update]
+[update.modrinth]
+mod-id = "V7BPfphg"
+version = "yL3yBq1T"
