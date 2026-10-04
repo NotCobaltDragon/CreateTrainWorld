@@ -1,0 +1,13 @@
+name = "Shulker Box Slot"
+filename = "shulkerboxslot-neoforge-6.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5T1RmWr/versions/kuswJCHf/shulkerboxslot-neoforge-6.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c45d2a49dab671757339a4bd0fb0a759f7381ab747c23e097115d71609a17684f5642214c543c265c116073fd739fabeb16ce0da19bfe6cf5285c4b21c9ca75a"
+
+[update]
+[update.modrinth]
+mod-id = "R5T1RmWr"
+version = "kuswJCHf"
