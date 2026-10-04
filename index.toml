@@ -989,6 +989,11 @@ hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "0d3b19ee52cb42c6d395bf839d8bd53059003361ea692fe318a578547e30aafc"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
@@ -1221,16 +1226,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
-metafile = true
-
-[[files]]
-file = "mods/yyzs-backpack-compat.pw.toml"
-hash = "3b6159f9cf8439467e5c800bc88764152e3f04bb01339fac2c60cfc8d10950c6"
-metafile = true
-
-[[files]]
-file = "mods/yyzs-backpack.pw.toml"
-hash = "086e65150e7b4b7173f254786d0f75b08d0589bbfec32445366f6c5029a5149f"
 metafile = true
 
 [[files]]
