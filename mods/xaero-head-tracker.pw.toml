@@ -1,13 +1,13 @@
 name = "Xaero Head Tracker"
-filename = "XaeroHeadTracker-1.0.0-neoforge-1.21.1.jar"
+filename = "XaeroHeadTracker-2.0.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ckFfIvjk/versions/hl7XgzVg/XaeroHeadTracker-1.0.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ckFfIvjk/versions/QX1vH38D/XaeroHeadTracker-2.0.0-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "629bd82b3a487c55f2d938dc52cf9639f6f415bc8c614ebe63e124e682cc49fd04c1d743011e175fdc9e779794a25e8021301ee74969e193193a28cc23ef5c35"
+hash = "96eb173b8e8f2842d4e1b96674c3bb577590632d923ac1d985b316a85eb02c0f6a5dda3c6ddd22aaf2178dfa0565bb6d4454c37150068a091776e543c3d28f24"
 
 [update]
 [update.modrinth]
 mod-id = "ckFfIvjk"
-version = "hl7XgzVg"
+version = "QX1vH38D"
