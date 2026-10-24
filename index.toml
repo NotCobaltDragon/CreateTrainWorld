@@ -84,6 +84,11 @@ hash = "6d8a125df73b7b1fd7caada85ee041f6599375d639dbc3d65e43567bfd7f6860"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ff7d8635229e9ea54a07d4fab9521e2d26125cb318665f2275aad143190e595b"
 metafile = true
@@ -614,11 +619,6 @@ hash = "7c811f8e9168cabfadc3a37cd995a5faf25962032d86f85e49a30b635da76b76"
 metafile = true
 
 [[files]]
-file = "mods/druids.pw.toml"
-hash = "a1d7130315e1a43aa50657ff8e32fac47dd089ae2820956d78f3f0de2ecceee7"
-metafile = true
-
-[[files]]
 file = "mods/dungeons_delight.pw.toml"
 hash = "326568973e59e0eda7087f82f48c7099655871cce72d46a2ddccb91633470f37"
 metafile = true
@@ -939,6 +939,11 @@ hash = "cee7d358a522abc9203c90eb67246989c5da87f3e2287f34c6edbf44b14855d4"
 metafile = true
 
 [[files]]
+file = "mods/more-rpg-classes-skill-tree.pw.toml"
+hash = "e71bf3ff4aa42bc6287364106aba3d0c8a0b3c5daa8b9cdd1b265d837bc98f59"
+metafile = true
+
+[[files]]
 file = "mods/more-rpg-library.pw.toml"
 hash = "dfb470b55082f6520d47f118c2826e60167609b5e0a33f59d0689629e82a47cd"
 metafile = true
@@ -1016,6 +1021,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a9c1ecdef94c1e535f7c5ea05e9b720778b8fd9bf0211d7d52a69bb4b6044ad1"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
 metafile = true
 
 [[files]]
@@ -1316,11 +1326,6 @@ metafile = true
 [[files]]
 file = "mods/village-taverns.pw.toml"
 hash = "daa4c0bc721c47abc6cbbd4363e5e078afbb513a8304b530f6f98fdaebf72704"
-metafile = true
-
-[[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
 
 [[files]]
