@@ -54,6 +54,11 @@ hash = "79d3ade74466d9928ba01efbb31a9d953bbe4ddcf80b296895cd3126e3c84112"
 metafile = true
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
@@ -64,18 +69,13 @@ hash = "27bf52b4265eda868c46a325f3a86cec1db5ff24ffb808aed671972d51883792"
 metafile = true
 
 [[files]]
-file = "mods/ante.pw.toml"
-hash = "6e2ce6b3eba4240c6ddd5474206e5c80fb84f78f1d8ae52921f84094dd226375"
-metafile = true
-
-[[files]]
 file = "mods/apokinetics.pw.toml"
 hash = "782c315b1fd4a3c0cf20ce41ea140cf271d030e8335676f6452e0d2dd0ea490f"
 metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
+hash = "953715b633ef5e41f8689c48ccbbe9fbc7218b08af4c9b02aa70c33a6dd9a948"
 metafile = true
 
 [[files]]
@@ -86,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
 metafile = true
 
 [[files]]
@@ -341,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "c06d47e743045a5618c1567fa2d4a7b724df25df76c8b4e0241de39713831492"
-metafile = true
-
-[[files]]
-file = "mods/create-colored-packages.pw.toml"
-hash = "941aa2f8fcde450ec3dcf0449f6702e8468194606ba7bf32953e833b424a77e6"
 metafile = true
 
 [[files]]
@@ -1169,11 +1169,6 @@ hash = "fe5798b3aa3e0080878252e5d3b7c20fc61a14a63f4d4cbc513d0d6107070446"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "f11837c4f049aeb3b7ceb086f4c7b1347bfad1826f47722cbdc8b2b38df0067e"
-metafile = true
-
-[[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "bb5dc8ac909aee1955532a65145f7ebfc3a88289610298e821a974fdda5f1822"
 metafile = true
@@ -1304,11 +1299,6 @@ hash = "4b43714366871c3b822e8b708c9887edf0e0bf390d7a1ae3650a6936c2e3746b"
 metafile = true
 
 [[files]]
-file = "mods/uniful.pw.toml"
-hash = "a3792014ab1070312467124b6683ea0bbac807a43e207c7b1acfd929ffa13fdd"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "9b18f1c0e25ac587b3b3433d379d6f78b745cc9215f746b4a2162013d1764257"
 metafile = true
@@ -1331,11 +1321,6 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "0ddb98afaff3663f367f51a4737780dbce00cefe9128244aa1fffce91dd1c363"
-metafile = true
-
-[[files]]
-file = "mods/vistaquality.pw.toml"
-hash = "84c32e6cff14da589c56d60778e5c88a5382e3218a855c1869a7651b664496d9"
 metafile = true
 
 [[files]]
