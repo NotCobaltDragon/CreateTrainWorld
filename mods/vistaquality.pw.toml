@@ -1,0 +1,13 @@
+name = "VistaQuality"
+filename = "vistaquality-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RNh2rO1j/versions/spUUChp4/vistaquality-1.2.jar"
+hash-format = "sha512"
+hash = "f9307a9d2dd87a2a0a533e62dbbc8852af00b6398bbd512259f9073995091aad08cf6f76dd02b1e946e83d68a1f655b41a4e2bfa03e4dd7a64b9bd4184619127"
+
+[update]
+[update.modrinth]
+mod-id = "RNh2rO1j"
+version = "spUUChp4"
