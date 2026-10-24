@@ -1,13 +1,13 @@
 name = "Brick & Mortar"
-filename = "brick_and_mortar-neoforge-1.21.1-1.2.1.jar"
+filename = "brick_and_mortar-neoforge-1.21.1-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ntRJD9NS/versions/fqHXkmGF/brick_and_mortar-neoforge-1.21.1-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/ntRJD9NS/versions/8wAguQz5/brick_and_mortar-neoforge-1.21.1-1.3.1.jar"
 hash-format = "sha512"
-hash = "0bdacd9e082803c92dafa95dae122aa95eb8303ca6573130ee2352ae4e29bf1357227c04ee62784e3a5d821d5a9cfc70f6a434d623a4984ac71505b04e2af65e"
+hash = "e688821f5b306b0792270cd2e8c6cf1657ae5b054f2d0e2e42d2dcae63d18c7b0976c0cdf7edf80f649dd57e3c0944190d9528f5159c6aaa0f16f390bd2b4f81"
 
 [update]
 [update.modrinth]
 mod-id = "ntRJD9NS"
-version = "fqHXkmGF"
+version = "8wAguQz5"
