@@ -1,0 +1,13 @@
+name = "Create: Vault Statistics"
+filename = "create-vault-statistics-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8i9nWNgy/versions/9V2PTqU9/create-vault-statistics-1.0.0.jar"
+hash-format = "sha512"
+hash = "9a88ae0bc849b02e6d9d894f4872defea9041fd8b0f44fb2e408d290466bd47f6e051e497f0cacf89fac2a8cd5d29e03001ed66939c27eb6a53848e76800edc5"
+
+[update]
+[update.modrinth]
+mod-id = "8i9nWNgy"
+version = "9V2PTqU9"
