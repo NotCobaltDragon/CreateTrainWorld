@@ -1,0 +1,13 @@
+name = "Create: Time Manipulator"
+filename = "createtimemanipulator-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AkR3vJDt/versions/toRvq3vj/createtimemanipulator-1.0.5.jar"
+hash-format = "sha512"
+hash = "1217b89ba3e7092710b3346832c7e7879c415eaa4c7c08127fda32f38256ad1aa7cffa9f3404290d0a8732d554546d4f9d47de6de4f505063b5490f39c12af08"
+
+[update]
+[update.modrinth]
+mod-id = "AkR3vJDt"
+version = "toRvq3vj"
