@@ -1,0 +1,13 @@
+name = "Infinite Dimensions"
+filename = "infinite-dimensions-2.5.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/PVHuW0GQ/infinite-dimensions-2.5.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b97ae657154a41e90dab726f506b90cd47566c9edfed64b874139840c7869bc34fb1639a797dc7af5098931e017c682f38905c10026527697a0b2ebd6ddcb291"
+
+[update]
+[update.modrinth]
+mod-id = "KgKqTqPj"
+version = "PVHuW0GQ"
