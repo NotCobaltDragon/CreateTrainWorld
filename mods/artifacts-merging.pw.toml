@@ -1,13 +1,13 @@
 name = "Artifacts Merging"
-filename = "artifactsmerging-neoforge-1.21.1-1.2.0.jar"
+filename = "artifactsmerging-neoforge-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gWBjqEMX/versions/K87EbkLm/artifactsmerging-neoforge-1.21.1-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/gWBjqEMX/versions/jVyJ8ADe/artifactsmerging-neoforge-1.21.1-1.2.1.jar"
 hash-format = "sha512"
-hash = "633dcfad6d6a1a7c883b19ef8c5ec764e9bc19ad2e8423819d2feb5cb76fda1ed7ee8cc545e7772a0ed7e52c94cf624aaa70bab7032c1b409241e4064d19af53"
+hash = "f17c8f0c934924f1cb960f8fb4ec6319be02903b9b5838f2689925ca9313f3a270fa0df12fc23672b38374a57a53440eb765af050294ca3cc0ad2927f651e853"
 
 [update]
 [update.modrinth]
 mod-id = "gWBjqEMX"
-version = "K87EbkLm"
+version = "jVyJ8ADe"
