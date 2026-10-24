@@ -1,13 +1,13 @@
 name = "Simple Death Improvements"
-filename = "simple_death_improvements-1.5.0+1.21.1-neoforge.jar"
+filename = "simple_death_improvements-neoforge-1.6.1+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/2JFsuD70/versions/CwbjwCyS/simple_death_improvements-1.5.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/2JFsuD70/versions/G5acC995/simple_death_improvements-neoforge-1.6.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "232749fe2dd1dceb0b188431fec8cee9b2bb71881e529a751d8855fbc847d393d5e1231b15921efb24a45e13f099109ef8531855722fdd967863809fcf69b533"
+hash = "f9b59551cbb1c35044eb8e678b5c3393d57e5655b38596bf6c5c92c07342e105a5b20ca413f4388e3ab8954849bee6e8af36546c4ef724efdba15ecfecdaf434"
 
 [update]
 [update.modrinth]
 mod-id = "2JFsuD70"
-version = "CwbjwCyS"
+version = "G5acC995"
