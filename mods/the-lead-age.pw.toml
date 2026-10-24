@@ -1,0 +1,13 @@
+name = "The Lead Age"
+filename = "theleadage-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zv6Yo2mC/versions/iZxZ24R4/theleadage-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "1441cd390ade200abcf3478d6fe05d39e08063cc651f5460e2244b361d1f832c5d83ac3c15b9491747409430b5fe05dc75056a90942906de2803fae3762826fa"
+
+[update]
+[update.modrinth]
+mod-id = "zv6Yo2mC"
+version = "iZxZ24R4"
