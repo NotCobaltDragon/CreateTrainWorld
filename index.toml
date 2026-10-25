@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest-dungeons-villages.pw.toml"
-hash = "201bc5d679d5e3c3de0116d3e213ff0d0c77378a281b7f3c18339565e21c9bfa"
+hash = "305054f7461d102275823a7a9b91086a107062ba6c7ec617f0725205c58e84a4"
 metafile = true
 
 [[files]]
@@ -1290,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-delight.pw.toml"
-hash = "9aa2136a4b08c4d78b94a0df8f98cde40a408a70f15a1f587d4b9df5fcdfceba"
+hash = "e701f243057daaac6b5f15a3084ba02903e3bd38bc60883a51640ae57a6a822d"
 metafile = true
 
 [[files]]
