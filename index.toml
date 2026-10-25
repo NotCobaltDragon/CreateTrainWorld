@@ -94,6 +94,11 @@ hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
 metafile = true
 
 [[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ff7d8635229e9ea54a07d4fab9521e2d26125cb318665f2275aad143190e595b"
 metafile = true
