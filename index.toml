@@ -294,6 +294,11 @@ hash = "0bbae13b361fdd2f30919f8f1bdd72f526b12ecf212f81d56fc372c533d64e17"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "4c074275546b78d3f7cefff44ac4fa4f69376f24710c0985decc8c2aa9ebadbc"
+metafile = true
+
+[[files]]
 file = "mods/creat-aeronautics-structures.pw.toml"
 hash = "b078492d92a8674ccb091408ed27b5d7e4b7659e60f13f046bb58796e731a89f"
 metafile = true
@@ -919,6 +924,11 @@ hash = "dea5a58219b42026ab476a3b05ffbfb51e4ab2dfc0f64362b88adc864da2e156"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6e1b5a63dddb53d1e5d911174237350a07ceb07a655027172c07057a2f7ba2cf"
 metafile = true
@@ -1279,6 +1289,11 @@ hash = "e9dc26a60c9b6aac37da8ea750f522f96f3eff7d595c8164f06dfebc4224695e"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "08aa1a2574bde997cb575648a6ff67b630b68f3783849579b8399ffb3a3829dc"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "b2dcebb6846f2835104715e6baf93a54fb6e606f2731b2fbfa35c3dd22c01874"
 metafile = true
@@ -1341,6 +1356,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c31c47cafd6b85f2a075b1587a187139b980e7156d34306710b4002b1e945163"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "6910872a2662cdc05acd0c3fb435855fe171c69629b68b2e72f69695e2428d4b"
 metafile = true
 
 [[files]]
