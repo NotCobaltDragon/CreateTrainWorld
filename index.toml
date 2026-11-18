@@ -579,11 +579,6 @@ hash = "afce286cc2fe50793e8e39e8ad740f82e30ae4bbca53cf89d5cccbd472e42e3f"
 metafile = true
 
 [[files]]
-file = "mods/createloconautics.pw.toml"
-hash = "075bbff94d93dc64557e5b4439402e98c46ca0444f7e779d66ef81070f25a4d0"
-metafile = true
-
-[[files]]
 file = "mods/createtrainwebapi.pw.toml"
 hash = "22518bbeb51030a5e6ab00ee6d511b0f59f9884f1701b9123fbf0bb3a4bab75d"
 metafile = true
@@ -901,11 +896,6 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "ae87d0a9948c341d7bd77f2b258e4f551487d2bb8c4c9523036e103e1884ed77"
-metafile = true
-
-[[files]]
-file = "mods/let-it-walk.pw.toml"
-hash = "0bf08f8e608e27fcb8c7f198618e08e19dfa01602a892e8110ed04efeea23463"
 metafile = true
 
 [[files]]
